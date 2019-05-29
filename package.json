@@ -1,0 +1,26 @@
+{
+  "name": "@arelstone/detox-helpers",
+  "version": "1.0.0",
+  "description": "A set of helper utilities for Detox",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "release": "release-it"
+  },
+  "keywords": [
+    "detox",
+    "react-native",
+    "wix/detox",
+    "helpers",
+    "e2e"
+  ],
+  "author": "Carsten Daurheøj <arelstone@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/detox": "^12.8.0",
+    "detox": "^12.10.2",
+    "release-it": "^12.2.2",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  }
+}
