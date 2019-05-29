@@ -7,6 +7,12 @@
     "lint": "tslint --project tsconfig.json",
     "release": "release-it"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arelstone/detox-helpers"
+  },
+  "homepage": "https://github.com/arelstone/detox-helpers",
+  "readme": "https://github.com/arelstone/detox-helpers/blob/master/README.md",
   "keywords": [
     "detox",
     "react-native",
