@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/detox": "^12.8.0",
     "detox": "^12.10.2",
-    "release-it": "^12.2.2",
+    "release-it": "^15.6.0",
     "tslint": "^5.16.0",
     "typescript": "^3.4.5"
   }
